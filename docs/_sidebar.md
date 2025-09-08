@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-- Hardware
+- *Hardware*
   - [Mi_multimode_gateway](Hardware-Mi_multimode_gateway.md)
 
-- other
+- *other*
   - [ha-docs](https://github.com/shaonianzhentan/ha-docs)

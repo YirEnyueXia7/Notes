@@ -37,11 +37,11 @@
 
 ### 文件准备
 1. 从引导加载程序文件夹中以您选择的速度下载中间引导加载程序：
-    * [rtkboot_38400.bin](https://github.com/serrj-sv/lumi.gateway.mgl03/raw/main/uart_recovery/bootloader/rtkboot_38400.bin) 是最慢的，也是最可靠的（上传固件需要 1 小时以上）。
-    * [rtkboot_57600.bin](https://github.com/serrj-sv/lumi.gateway.mgl03/raw/main/uart_recovery/bootloader/rtkboot_57600.bin) 比*rtkboot_38400.bin*快一点
-    * [***rtkboot_115200.bin***](https://github.com/serrj-sv/lumi.gateway.mgl03/raw/main/uart_recovery/bootloader/rtkboot_115200.bin) `（推荐）`是速度和可靠性之间的最佳折衷方案（上传固件大约需要 20 分钟）。
-    * [rtkboot_230400.bin](https://github.com/serrj-sv/lumi.gateway.mgl03/raw/main/uart_recovery/bootloader/rtkboot_230400.bin) 比*rtkboot_115200.bin*快一点
-    * [rtkboot_460800.bin](https://github.com/serrj-sv/lumi.gateway.mgl03/raw/main/uart_recovery/bootloader/rtkboot_460800.bin) 是最快的（上传固件大约需要 6 分钟）。
+    * [rtkboot_38400.bin](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_38400.bin) 是最慢的，也是最可靠的（上传固件需要 1 小时以上）。
+    * [rtkboot_57600.bin](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_57600.bin) 比*rtkboot_38400.bin*快一点
+    * [***rtkboot_115200.bin***](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_115200.bin) `（推荐）`是速度和可靠性之间的最佳折衷方案（上传固件大约需要 20 分钟）。
+    * [rtkboot_230400.bin](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_230400.bin) 比*rtkboot_115200.bin*快一点
+    * [rtkboot_460800.bin](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_460800.bin) 是最快的（上传固件大约需要 6 分钟）。
 2. 从你选择的[firmware folder](https://github.com/zvldz/mgl03_fw/tree/main/firmware)下载 *mgl03_xxxxx.uart* 文件。
 
 ### Windows操作步骤

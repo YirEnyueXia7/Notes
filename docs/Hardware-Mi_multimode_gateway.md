@@ -42,11 +42,11 @@
     * [***rtkboot_115200.bin***](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_115200.bin) `（推荐）`是速度和可靠性之间的最佳折衷方案（上传固件大约需要 20 分钟）。
     * [rtkboot_230400.bin](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_230400.bin) 比*rtkboot_115200.bin*快一点
     * [rtkboot_460800.bin](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/bootloader/rtkboot_460800.bin) 是最快的（上传固件大约需要 6 分钟）。
-2. 从你选择的[firmware folder](https://github.com/zvldz/mgl03_fw/tree/main/firmware)下载 *mgl03_xxxxx.uart* 文件。
+2. 从你选择的[firmware folder](https://github.com/zvldz/mgl03_fw/tree/main/firmware)下载[mgl03_xxxxx.uart](./attachments/Hardware/Xiaomi_multimode_gateway/firmware/custom/mgl03_1.4.7_0160_mod20210309/mgl03_1.4.7_0160_mod20210309.uart)文件。
 
 ### Windows操作步骤
-1. 下载 [mgl03_uart_recovery.ttl](https://github.com/serrj-sv/lumi.gateway.mgl03/raw/main/uart_recovery/mgl03_uart_recovery.ttl)
-1. 下载并安装[Tera Term](https://teratermproject.github.io/index-en.html)，推荐[ver 4.106](https://github.com/TeraTermProject/teraterm/releases/tag/teraterm-4_106)
+1. 下载 [mgl03_uart_recovery.ttl](./attachments/Hardware/Xiaomi_multimode_gateway/uart_recovery/mgl03_uart_recovery.ttl)
+1. 下载并安装[Tera Term](https://teratermproject.github.io/index-en.html)，推荐[ver 4.106](./attachments/Hardware/Xiaomi_multimode_gateway/teraterm-4.106.zip)
 1. ttl对接烧录器
 1. 运行 Tera Term 
     1. 主程序ttermpro.exe

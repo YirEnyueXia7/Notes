@@ -4,9 +4,8 @@
 > ### Dooya-M1
 <kbd><a href="./attachments/Hardware/cover/KT82ESP.zip" target="_blank">PCB</a></kbd>
 <kbd><a href="./attachments/Hardware/cover/m1.7z" target="_blank">固件</a></kbd>
-<kbd><a href="./attachments/Hardware/cover_m1.yaml" target="_blank">HA配置</a></kbd>
+<kbd><a href="./attachments/Hardware/cover/cover_m1.yaml" target="_blank">HA配置</a></kbd>
 <!-- <kbd>[官网](./attachments/cover_m1.yaml)</kbd> -->
-
 ```
 MQTT协议接入
 ```

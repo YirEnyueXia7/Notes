@@ -1,0 +1,19 @@
+cover:
+#替换espcover为配置的MQTT前缀部分即可##
+  - platform: mqtt
+    name: "MQTT Cover"
+    command_topic: "espcover/cover/set"
+    position_topic: "espcover/cover/position"
+    availability_topic: "espcover/cover/availability"
+    set_position_topic: "espcover/cover/set_position"
+    qos: 0
+    retain: true
+    payload_open: "OPEN"
+    payload_close: "CLOSE"
+    payload_stop: "STOP"
+    position_open: 100
+    position_closed: 0
+    payload_available: "Online"
+    payload_not_available: "Offline"
+    optimistic: false
+    
